@@ -2,7 +2,7 @@
 
 # Análise e Visualização de Dados da Mega Sena
 
-Este projeto tem como objetivo analisar e visualizar os dados dos sorteios da Mega Sena. Ele inclui um script de análise e um script para gerar gráficos baseados nos resultados das análises. Utilizamos Python, juntamente com as bibliotecas Pandas e Matplotlib, para processar e visualizar os dados.
+Este projeto tem como objetivo analisar e visualizar os dados dos sorteios da Mega Sena. Ele inclui um script de análise e um script para gerar gráficos baseados nos resultados das análises. Utilizei Python, juntamente com as bibliotecas Pandas e Matplotlib, para processar e visualizar os dados.
 
 ## Estrutura do Projeto
 
